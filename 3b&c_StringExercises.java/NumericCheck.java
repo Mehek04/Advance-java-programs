@@ -1,5 +1,5 @@
-/*3B1. Write a Java Program for Checking if a given string is null or contains only whitespace using user
-defined function isNullOrEmpty().*/
+/*3C8. Write a Java Program for Verifying if a string contains only numeric characters using user defined
+function isNumeric()*/
 package assignment;
 import java.util.Scanner;
 
