@@ -3,7 +3,7 @@ Program 3b&c String Excercise Program
 
 # 📝 Exercises
 
-StringExercise1_output-->(https://github.com/Mehek04/Advance-java-programs/blob/main/3b&c_StringExercises.java/3b1_StringCheck.png)
+3b1_StringCheck_output-->(https://github.com/Mehek04/Advance-java-programs/blob/main/3b&c_StringExercises.java/3b1_StringCheck.png)
 
 3b2_SubstringCount_output-->(https://github.com/Mehek04/Advance-java-programs/blob/main/3b&c_StringExercises.java/3b2_SubstringCount.png)
 
