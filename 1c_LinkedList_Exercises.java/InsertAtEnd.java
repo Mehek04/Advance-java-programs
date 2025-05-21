@@ -8,6 +8,7 @@ public class InsertAtEnd {
 	        LinkedList<String> list = new LinkedList<>();
 	        list.add("Red");
 	        list.add("Green");
+	        System.out.println("Before inserting:"+list);
             //Insert "Pink" at the end of the LinkedList
 	        list.offerLast("Pink"); // Add at the end
 
