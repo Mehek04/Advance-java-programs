@@ -3,22 +3,22 @@ Program 3b&c String Excercise Program
 
 # 📝 Exercises
 
-StringExercise1_output-->(https://github.com/Mehek04/Advance-java-programs/blob/main/3b%26c_StringExercises.java/p_3b1.png)
+StringExercise1_output-->(https://github.com/Mehek04/Advance-java-programs/blob/main/3b&c_StringExercises.java/3b1_StringCheck.png)
 
-StringExercise2_output-->(https://github.com/Mehek04/Advance-java-programs/blob/main/3b%26c_StringExercises.java/p_3b2.png)
+3b2_SubstringCount_output-->(https://github.com/Mehek04/Advance-java-programs/blob/main/3b&c_StringExercises.java/3b2_SubstringCount.png)
 
-StringExercise3_output-->(https://github.com/Mehek04/Advance-java-programs/blob/main/3b%26c_StringExercises.java/p_3b3.png)
+3b3_StringReversal_output-->(https://github.com/Mehek04/Advance-java-programs/blob/main/3b&c_StringExercises.java/3b3_StringReversal.png)
 
-StringExercise4_output-->(https://github.com/Mehek04/Advance-java-programs/blob/main/3b%26c_StringExercises.java/p_3b4.png)
+3b4_PalindromeCheck_output-->(https://github.com/Mehek04/Advance-java-programs/blob/main/3b&c_StringExercises.java/3b4_PalindromeCheck.png)
 
-StringExercise5_output-->(https://github.com/Mehek04/Advance-java-programs/blob/main/3b%26c_StringExercises.java/p_3b5.png)
+3b5_removeWhitespace_output-->(https://github.com/Mehek04/Advance-java-programs/blob/main/3b&c_StringExercises.java/3b5_removeWhitespace.png)
 
-StringExercise6_output-->(https://github.com/Mehek04/Advance-java-programs/blob/main/3b%26c_StringExercises.java/p_3c6.png)
+3c6_capitalizeWords_output-->(https://github.com/Mehek04/Advance-java-programs/blob/main/3b&c_StringExercises.java/3c6_capitalizeWords.png)
 
-StringExercise7_output-->(https://github.com/Mehek04/Advance-java-programs/blob/main/3b%26c_StringExercises.java/p_3c7.png)
+ 3c7_StringTruncation_output-->(https://github.com/Mehek04/Advance-java-programs/blob/main/3b&c_StringExercises.java/3c7_StringTruncation.png)
 
-StringExercise8_output-->(https://github.com/Mehek04/Advance-java-programs/blob/main/3b%26c_StringExercises.java/p_3c8.png)
+3c8_NumericCheck_output-->(https://github.com/Mehek04/Advance-java-programs/blob/main/3b&c_StringExercises.java/3c8_NumericCheck.png)
 
-StringExercise9_output-->(https://github.com/Mehek04/Advance-java-programs/blob/main/3b%26c_StringExercises.java/p_3c9.png)
+3c9_RandomStringGenerator_output-->(https://github.com/Mehek04/Advance-java-programs/blob/main/3b&c_StringExercises.java/3c9_%20RandomStringGenerator.png)
 
-StringExercise10_output-->(https://github.com/Mehek04/Advance-java-programs/blob/main/3b%26c_StringExercises.java/p_3c10.png)
+3c10_WordCounter_output-->(https://github.com/Mehek04/Advance-java-programs/blob/main/3b&c_StringExercises.java/3c10_WordCounter.png)
